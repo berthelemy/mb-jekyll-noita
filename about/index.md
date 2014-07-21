@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+Test site looking at the Jekyll workflow.
+
 Noita is a [Jekyll][0] theme built with the responsive front-end framework [Foundation][1]. The theme is free and fully compatible with [Github Pages][2].
 
 ## Quick Guide
